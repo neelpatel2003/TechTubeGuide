@@ -80,11 +80,16 @@ Exception handling in Java is a mechanism to handle runtime errors. When an erro
 
 ### Watch the demonstration video of TechTubeGuide:
 
-![TechTubeGuide Demo video](https://www.dropbox.com/scl/fi/b4mp8n055ys5phsyf44vi/TechTubeGuide-Google-Chrome-2024-06-15-21-05-27.mp4?rlkey=4o1vh9rmydtjtpooolsfw2lt3&st=dxoqwfm0&dl=0)
+![TechTubeGuide Demo video](https://github.com/PDhvanik/TechTubeGuide/assets/113344894/4baacf44-c73e-4266-a7d4-bc4c5be4c73a)
 
-### See more:
+### Project screenshot:
 
-![Photos](https://www.dropbox.com/scl/fo/1kuzyx73o0zo7pqja80pw/AO3Hk5_te7OHYJuDDjP3N70?rlkey=i952tpquoobohu3o3gp9owxgq&st=me3bijqp&dl=0)
+![Screenshot 1](https://github.com/PDhvanik/TechTubeGuide/assets/113344894/f72ffede-1c81-4b29-8e75-43c32bcfeca7)
+
+![Screenshot 2](https://github.com/PDhvanik/TechTubeGuide/assets/113344894/8eaa14d3-83a7-40e8-8f72-08613b015c4a)
+
+![Screenshot 3](https://github.com/PDhvanik/TechTubeGuide/assets/113344894/2a1652fd-ea6e-411f-ac68-b7d66aaa19fa)
+
 
 ## Getting Started
 
